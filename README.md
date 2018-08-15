@@ -25,3 +25,10 @@ A chrome extension to reveal a website's password that's stored in chrome local 
 * Now click on extension at the extensions bar.
 
 * Click on SHOW button & your'e done.
+
+
+## Normal methods
+
+* using CTRL+SHIFT+I : https://www.youtube.com/watch?v=uG4rQ6xJH-M
+
+* Settings : https://www.youtube.com/watch?v=wZMClFSss3E 
