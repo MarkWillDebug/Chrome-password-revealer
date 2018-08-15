@@ -22,4 +22,4 @@ A chrome extension to reveal a website's password that's stored in chrome local 
 
 * Now click on extension at the extensions bar.
 
-* Click on SHOW button & it,s done.
+* Click on SHOW button & it's done.
