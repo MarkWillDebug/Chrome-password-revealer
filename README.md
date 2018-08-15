@@ -4,7 +4,7 @@ A chrome extension to reveal a website's password that's stored in chrome local 
 
 ## How to install 
 
-* Download Zip of the plugin from this page ('Clone of Download' button at the top) 
+* Download from  https://goo.gl/pnwJCU
 
 * Extract zip to any folder in your file system
 
@@ -14,6 +14,8 @@ A chrome extension to reveal a website's password that's stored in chrome local 
 
 * Click "load unpacked extension" and upload the extracted folder.
 
+* ( You might get an error that maniifest.json is missing,upload the folder containing files,not folder1->folder2->files)You should upload folder2 not folder1.
+
 * You are good to go now. 
 
 ## How to work on a particular website
@@ -22,4 +24,4 @@ A chrome extension to reveal a website's password that's stored in chrome local 
 
 * Now click on extension at the extensions bar.
 
-* Click on SHOW button & it's done.
+* Click on SHOW button & your'e done.
