@@ -1,0 +1,16 @@
+{"manifest_version":2,
+"name":"Password Revealer",
+  "description": "A Google chrome extension to reveal passwords without username & password of your PC",
+"version":"1.0",
+ "permissions":["activeTab",
+               "<all_urls>",
+               "storage"],
+ "icons":{
+    "16":"i/icon.png",
+    "48":"i/icon.png",
+    "128":"i/icon.png"
+},
+"browser_action":{
+      "default_popup":"popup.html"},
+ "options_page":"popup.html"
+}
